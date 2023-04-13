@@ -3,7 +3,7 @@
 ** 
 ** File description:
 ** 
-*/
+
 
 int substaction(int a, int b)
 {
